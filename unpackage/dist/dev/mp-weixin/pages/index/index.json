@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "times-piker": "/components/pretty-times/pretty-times"
+  }
+}

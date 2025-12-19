@@ -1,0 +1,1 @@
+<view class="bottom"><block wx:if="{{showTime}}"><view class="show-time">{{'预约时间：'+orderDateTime+''}}</view></block><view data-event-opts="{{[['tap',[['handleSubmit',['$event']]]]]}}" class="submit-btn _div" bindtap="__e">确认预约</view></view>

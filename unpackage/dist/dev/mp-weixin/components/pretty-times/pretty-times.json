@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "date-picker": "/components/pretty-times/DatePicker",
+    "time-list": "/components/pretty-times/TimeList",
+    "time-section": "/components/pretty-times/TimeSection",
+    "time-footer": "/components/pretty-times/TimeFooter"
+  }
+}
